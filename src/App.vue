@@ -1,9 +1,11 @@
 <template>
   <div class="app-container">
   <Header></Header>
-  <Body></Body>
+  <Body>
+  </Body>
   <router-view/>
   <Footer></Footer>
+  
 
 
   </div>
@@ -19,6 +21,7 @@
       Header,
       Body,
       Footer,
+      
       
     }
   }
@@ -67,4 +70,4 @@
 body{
   margin: 0;
 }
-</style>
+</style>,3
