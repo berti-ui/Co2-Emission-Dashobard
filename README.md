@@ -1,4 +1,4 @@
-# kochrezepte
+# co2Dashboard
 
 ## Project setup
 ```
